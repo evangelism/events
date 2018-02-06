@@ -1,3 +1,3 @@
 # Events
 
-Initial description
+Доклады, лабораторные и другие полезные артефакты с технологических мероприятий Microsoft CSE EE.
